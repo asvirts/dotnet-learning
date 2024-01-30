@@ -1,0 +1,14 @@
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\bin\Debug\net7.0\dotnet-learning.exe
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\bin\Debug\net7.0\dotnet-learning.deps.json
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\bin\Debug\net7.0\dotnet-learning.runtimeconfig.json
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\bin\Debug\net7.0\dotnet-learning.dll
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\bin\Debug\net7.0\dotnet-learning.pdb
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.AssemblyInfoInputs.cache
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.AssemblyInfo.cs
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.csproj.CoreCompileInputs.cache
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.dll
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\refint\dotnet-learning.dll
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.pdb
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\dotnet-learning.genruntimeconfig.cache
+C:\Users\asvirts\Documents\GitHub\dotnet-learning\obj\Debug\net7.0\ref\dotnet-learning.dll
